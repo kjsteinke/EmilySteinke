@@ -1,0 +1,6 @@
+title: Emily Steinke
+description: A family archive of Emily Steinke (Sigurdson)
+url: ""
+baseurl: ""
+permalink: /posts/:title/
+markdown: kramdown
